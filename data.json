@@ -133,6 +133,11 @@ Following the tips and tricks of Free of Fire mentioned above should place you i
    },
   {
      "link" : "https://www.google.com"
+   },
+  {
+     "about" : "https://www.google.com"
+   },
+  {
+     "privacypolicy" : "https://www.google.com"
    }
-
 ]
